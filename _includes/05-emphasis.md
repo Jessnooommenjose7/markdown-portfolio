@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Hai I am Jessno*
+_Hai I am Jessno_
+
+**I am from Kollam**
+__I am from Kollam__
+
+_You **can** combine them_
